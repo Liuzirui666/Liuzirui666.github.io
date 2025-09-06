@@ -53,7 +53,7 @@ My current research lies in  **artificial intelligence for system security, Rein
 # 📖 Educations
 - *2025.09 - Present*, Ph.D Student, [Manning College of Information & Computer Sciences, University of Massachusetts, Amherst](https://www.cics.umass.edu)
 - *2023.09 - 2025.03*, M.S, [Department of Computer Science, University of California, Irvine](https://cs.ics.uci.edu)
-- *2019.09 - 2023.06*, B.E, [Department of Computer Science and Engineering, of Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn)  
+- *2019.09 - 2023.06*, B.E, [Department of Computer Science and Engineering, Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn)  
 
 
 # ♟️ Miscellaneous
