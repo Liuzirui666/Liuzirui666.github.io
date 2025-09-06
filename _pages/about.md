@@ -57,4 +57,4 @@ My current research lies in  **artificial intelligence for system security, Rein
 
 
 # ♟️ Miscellaneous
-- I have a 5-dan(段) amateur Go(围棋) player in China since 11.
+- I have been a 5-dan(段) amateur Go(围棋) player in China since 11.
