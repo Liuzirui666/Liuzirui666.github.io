@@ -27,7 +27,7 @@ Before my enrollment into UMass, I received my M.S in Computer Science from [Uni
 I received my B.Eng in Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June, 2023. 
 
 
-My current research lies in  **AI for system security, AI security and privacy, and Reinforcement Learning**.
+My current research lies in  **Robust AI security and Reinforcement Learning**.
 
 
 
