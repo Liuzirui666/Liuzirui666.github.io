@@ -20,7 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋! I am Zirui Liu(刘梓睿), a first-year Ph.D student at [University of Massachusetts, Amherst](https://www.umass.edu), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). I also work closely with Prof. [Mengfan Xu](https://mengfanxu1997.github.io/).
+Hi👋! I am Zirui Liu(刘梓睿), a second-year Ph.D student at [University of Massachusetts, Amherst](https://www.umass.edu), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/). I also work closely with Prof. [Mengfan Xu](https://mengfanxu1997.github.io/).
 
 Before my enrollment into UMass, I received my M.S in Computer Science from [University of California, Irvine](https://uci.edu) in March, 2025.
 
@@ -71,7 +71,7 @@ My current research lies in **Security for Large Language Model, Agentic systems
 # 📚 Teaching
 - Teaching Assistant, COMPSCI 589 Machine Learning, University of Massachusetts, Amherst
 - Teaching Assistant, COMPSCI 520 Theory and Practice of Software Engineering, University of Massachusetts, Amherst
-- Teaching Assistant, COMPSCI 210 Data Structures, University of Massachusetts, Amherst
+- Teaching Assistant, CICS 210 Data Structures, University of Massachusetts, Amherst
 
 
 # 💻 Internships
