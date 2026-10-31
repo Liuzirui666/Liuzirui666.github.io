@@ -38,6 +38,12 @@ My current research lies in **Security for Large Language Model, Agentic systems
 
 # 📝 Publications 
 
+- **[ICALL-BENCH: Benchmarking LLM Interprocedural Reasoning in Binary Programs](https://arxiv.org/abs/2610.37871)**
+
+  Shenglong Yao, **Zirui Liu**, Xiangchi Yuan, Wenke Lee
+
+  ***Preprint, 2026***
+
 - **[Robustness-Aware Evaluation and Enhancement of Mutation-Based Fuzzing for Bug Discovery](https://arxiv.org/abs/2609.06773)**
 
   **Zirui Liu**, Mengfan Xu, Juan Zhai, Shiqing Ma, Barry Nelson
